@@ -66,7 +66,7 @@ namespace Blog_Management_API.Controllers
             var json = JsonSerializer.Serialize(posts);
             System.IO.File.WriteAllText(this.RelativePath, json);
         }
-
+        [NonAction]
         public List<BlogPostModel> readJsonFile()
         {
             List<BlogPostModel> posts = new List<BlogPostModel>();
