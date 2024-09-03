@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "hXX6Gl0xVDGxym45s10lym30djP6wxHcJoqp7tLnfJs=",
+  "Source": "Blog_Management_API",
+  "BasePath": "_content/Blog_Management_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog_Management_API\\wwwroot",
+      "Source": "Blog_Management_API",
+      "ContentRoot": "D:\\R Sysytem Assignment\\BlogManagement_API-main\\BlogManagement_API-main\\Blog_Management_API\\wwwroot\\",
+      "BasePath": "_content/Blog_Management_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\R Sysytem Assignment\\BlogManagement_API-main\\BlogManagement_API-main\\Blog_Management_API\\wwwroot\\index.html",
+      "SourceId": "Blog_Management_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\R Sysytem Assignment\\BlogManagement_API-main\\BlogManagement_API-main\\Blog_Management_API\\wwwroot\\",
+      "BasePath": "_content/Blog_Management_API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
